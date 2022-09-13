@@ -1,0 +1,158 @@
+.navbar navbar-expand-lg navbar-light bg-light{
+	background-color: #FFFFFF;
+}
+
+
+.linksfooter{
+	list-style: none;
+}
+.linksfooter a{
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: 500;
+	color: #000000;
+	font-family: Avenir;
+	text-decoration: none;
+}
+
+.linksfooter a:hover{
+	color: #C4A679;
+}
+
+.linksfooter li{
+	margin-bottom: 10px;
+}
+
+#hero{
+	background-image: url("../img/homepage_1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 20% 0;
+	color: #FFFFFF;
+	font-family: Avenir;
+	text-transform: uppercase;
+}
+
+#shop{
+	color:#FFFFFF;
+}
+
+#life h6{
+	text-transform: uppercase;
+	margin-bottom: 30px;
+	font-family: Avenir;
+	margin-top: 15%;
+}
+
+#life h5{
+	text-transform: uppercase;
+	font-family: Avenir;
+	font-size: 20px;
+	margin-top: 5%;
+}
+
+#life{
+	padding: 30px 0;
+}
+
+#hair-care{
+	padding: 10% 0;
+}
+
+
+#shampoo{
+	font-family: Avenir;
+	padding: 10% 0;
+	
+}
+
+#shampoo h1{
+	text-transform: uppercase;
+	color: #000000;
+	text-align: left;
+	margin-bottom: 20%;
+}
+
+#shampoo h6{
+	color: #000000;
+	
+}
+
+#shampoo h5{
+	color: #000000;
+	font-family: Avenir;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+
+
+
+#footer{
+	font-family: Avenir;
+	text-transform: uppercase;
+	padding: 2% 0;
+	color: #000000;
+	border-top: 1px solid #000;
+	padding-top: 5%;
+}
+
+.btn-subscribe {
+	background-color: #000000;
+	text-transform: uppercase;
+	font-size:14px;
+	font-weight: 600;
+	color: #fff;
+	padding: 10px 30px;
+	font-family: Avenir;
+}
+
+.btn-subscribe a:hover{
+	color: #C4A679;
+}
+
+.btn-light{
+	background-color: #00000;
+}
+
+.login{
+	font-family: Avenir;
+	padding: 5%;
+}
+
+.login h3{
+	font-family: Avenir;
+	text-transform: uppercase;
+	font-size:18px;
+}
+
+.btn-ocean{
+	background-color: #000000;
+	color: #fff;
+	font-family: Avenir;
+	text-align: center;
+}
+
+#shampoo hr{
+	color: #C4A679;
+	width: 90px solid;
+}
+
+
+hr{
+margin-top:2;
+height:10px;
+}
+
+#Log in{
+	
+}
+
+#form-login .form-control{
+	border:0;
+	border-bottom: 1px solid #000;
+	border-radius: 0;
+	
+}
+
+
